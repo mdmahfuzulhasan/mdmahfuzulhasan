@@ -1,8 +1,7 @@
 # Md. Mahfuzul Hasan 🌱
 Horticulturist & Researcher | Dhaka, Bangladesh
 
-MSc in Horticulture (BAU) · BSc in Agriculture (HSTU)
-
+MSc in Horticulture, [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/) · BSc in Agriculture, [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://www.hstu.ac.bd/)
 
 ## 👨‍🔬 About Me
 
