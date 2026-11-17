@@ -41,13 +41,17 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=yIfyrqoAAA
 
 ## 🏛️ Editorial Roles & Peer Review
 
-🟢 **Editorial Board Member**, [Malaysian Journal of Sustainable Agriculture (MJSA)](https://myjsustainagri.com/), since July 2025
+🟢 **Editorial Board Member**: [Malaysian Journal of Sustainable Agriculture (MJSA)](https://myjsustainagri.com/), since July 2025
 
-🟢 **Editorial Board Member**, [Sustainability in Food and Agriculture (SFNA)](https://sfna.org.my/), since July 2025
+🟢 **Editorial Board Member**: [Sustainability in Food and Agriculture (SFNA)](https://sfna.org.my/), since July 2025
 
-🟢 **Editorial Board Member**, [Reviews in Food and Agriculture (RFNA)](https://rfna.com.my/), since July 2025
+🟢 **Editorial Board Member**: [Reviews in Food and Agriculture (RFNA)](https://rfna.com.my/), since July 2025
 
-🟢 **Reviewer**, [Arabian Journal of Medicinal and Aromatic Plants (AJMAP)](https://revues.imist.ma/index.php/AJMAP), a Scopus-indexed Q3 journal
+🟢 **Reviewer**: [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science)
+
+🟢 **Reviewer**: [Arabian Journal of Medicinal and Aromatic Plants (AJMAP)](https://revues.imist.ma/index.php/AJMAP)
+
+🟢 **Reviewer**: [Journal of Experimental Agriculture International (JEAI)](https://journaljeai.com/index.php/JEAI)
 
 ## 💼 Experience
 
