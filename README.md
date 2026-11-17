@@ -3,6 +3,15 @@ Horticulturist & Researcher | Dhaka, Bangladesh
 
 MSc in Horticulture (BAU) · BSc in Agriculture (HSTU)
 
+
+## 👨‍🔬 About Me
+
+Md. Mahfuzul Hasan is a dedicated and dynamic agricultural researcher with a Master of Science in Horticulture and a Bachelor of Science in Agriculture from Bangladesh. His research interests are centered on sustainable and eco-friendly cultivation practices, with a particular focus on the biorational management of crop diseases, insect pests, and environmental stressors to support global climate resilience.
+
+Mr. Hasan is deeply committed to advancing crop improvement through the screening and selection of superior genotypes, tailored to local agro-climatic conditions and national agricultural priorities. His broader vision encompasses research on propagation, production, crop protection, and breeding of native and underutilized horticultural crops, both within Bangladesh and internationally, to enhance community well-being and optimize the use of plant genetic resources.
+
+Additionally, Mr. Hasan aims to contribute to the fields of organic and sustainable agriculture, with a keen interest in the morpho-biochemical, physio-chemical, and nutritional profiling of horticultural crops. He aspires to be part of global efforts promoting environmentally sound agricultural innovations for food security and sustainable development.
+
 ## 🔬 Research Interests
 - Sustainable & eco-friendly crop cultivation
 - Biorational management of crop diseases and pests
