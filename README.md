@@ -1,9 +1,7 @@
 # Md. Mahfuzul Hasan 🌱
 Horticulturist & Researcher | Dhaka, Bangladesh
 
-MSc in Horticulture, [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/) · BSc in Agriculture, [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://www.hstu.ac.bd/)
-
-## 👨‍🔬 About Me
+MSc in Horticulture, [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/) · BSc in Agriculture, [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://www.hstu.acWebsite
 
 ## 👨‍🔬 About Me
 
@@ -70,5 +68,6 @@ BAURES-funded coloured sweet potato project: field experiments, data analysis, p
 🟢 Train-the-trainer program on agricultural journalism (1 day)
 
 🟢 Winner, inter-college Bangla debate competition
+
 ## 🌐 Website
 [sites.google.com/view/mdmahfuzulhasan](https://sites.google.com/view/mdmahfuzulhasan/home)
