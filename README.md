@@ -40,5 +40,35 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=yIfyrqoAAA
 [ResearchGate](https://www.researchgate.net/profile/Md-Mahfuzul-Hasan) ·
 [Web of Science](https://www.webofscience.com/wos/author/record/NRY-4384-2025)
 
+
+## 🏛️ Editorial Roles & Peer Review
+
+🟢 **Editorial Board Member**, [Malaysian Journal of Sustainable Agriculture (MJSA)](https://myjsustainagri.com/), since July 2025
+
+🟢 **Editorial Board Member**, [Sustainability in Food and Agriculture (SFNA)](https://sfna.org.my/), since July 2025
+
+🟢 **Editorial Board Member**, [Reviews in Food and Agriculture (RFNA)](https://rfna.com.my/), since July 2025
+
+🟢 **Reviewer**, [Arabian Journal of Medicinal and Aromatic Plants (AJMAP)](https://revues.imist.ma/index.php/AJMAP), a Scopus-indexed Q3 journal
+
+## 💼 Experience
+
+🟢 **Intern (Agriculturist)**, Nassik Plant and Pot Limited, Mithapukur, Rangpur (June 2026 – Present)
+Soilless culture, hydroponics, hanging basket cultivation, crop selection and hybridisation techniques.
+
+🟢 **Intern (Plant Protection/Assistant Manager)**, Green Savers, Dhaka (Jan – Mar 2024)
+Plant health management, pest and disease monitoring, nursery and landscape operations.
+
+🟢 **Research Assistant**, Ministry of Education funded horticulture project, Project ID: LS2019943 (Jan – Jul 2023)
+Field operations, irrigation and crop health management, experimental data collection and visualisation.
+
+🟢 **Research Assistant**, Bangladesh Agricultural University Research System (BAURES) (May – Nov 2022)
+BAURES-funded coloured sweet potato project: field experiments, data analysis, production practice standardisation.
+
+## 🎓 Training & Honors
+
+🟢 Train-the-trainer program on agricultural journalism (1 day)
+
+🟢 Winner, inter-college Bangla debate competition
 ## 🌐 Website
 [sites.google.com/view/mdmahfuzulhasan](https://sites.google.com/view/mdmahfuzulhasan/home)
